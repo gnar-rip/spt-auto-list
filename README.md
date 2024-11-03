@@ -2,6 +2,11 @@
 
 **GnarAutoList** is a mod for SPT-AKI that enhances the Flea Market experience in Escape from Tarkov by allowing players to automatically list items at average prices based on live flea market data. The mod adds an "Auto-List" option in the stash context menu for quick and easy selling.
 
+## Currently Known Bugs
+
+- **Ignores Flea Offer Limit**: Currently you can use this mod to surpass the amount of offers you have on the flea. This will be changed in the future.
+- **Does not take stack size into account**: If you auto list a stack of ammo, it will list the ENTIRE STACK for the price of a SINGLE ROUND.
+
 ## Features
 
 - **Auto-List Items**: Automatically lists items on the Flea Market at the current average price.
