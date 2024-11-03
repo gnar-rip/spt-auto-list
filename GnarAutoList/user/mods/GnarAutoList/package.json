@@ -5,8 +5,5 @@
     "description": "Adds a context menu button to auto-list items on the flea market at the average price (in roubles).",
     "sptVersion": "3.9.8",
     "main": "src/mod.js",
-    "license": "MIT",
-    "dependencies": {
-        "GnarAutoList": "file:"
-    }
+    "license": "MIT"
 }
