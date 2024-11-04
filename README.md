@@ -1,6 +1,6 @@
 # GnarAutoList
 
-**GnarAutoList** is a mod for SPT-AKI that enhances the Flea Market experience in Escape from Tarkov by allowing players to automatically list items at average prices based on live flea market data. The mod adds an "Auto-List" option in the stash context menu for quick and easy selling.
+**GnarAutoList** is a mod for SPT that enhances the Flea Market experience in Escape from Tarkov by allowing players to automatically list items at average prices based on live flea market data. The mod adds an "Auto-List" option in the stash context menu for quick and easy selling.
 
 ## Currently Known Bugs
 
@@ -36,8 +36,4 @@
 ## License
 
 This project is open source and licensed under the MIT License.
-
-## Disclaimer
-
-GnarAutoList is not affiliated with Battlestate Games and is intended for use only with SPT-AKI, a community project providing an offline version of Escape from Tarkov. Use at your own risk.
 
