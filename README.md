@@ -3,7 +3,6 @@
 GnarAutoList is a mod for SPT that enhances the Flea Market experience in Escape from Tarkov by allowing players to automatically list items at average prices based on live flea market data. The mod adds an "Auto-List" option in the stash context menu for quick and easy selling.
 
 ## Currently Known Bugs
-- **Ignores Flea Offer Limit**: Currently, you can use this mod to surpass the number of offers you have on the flea. This will be changed in the future.
 - **Does not take stack size into account**: If you auto-list a stack of ammo, it will list the entire stack for the price of a single round.
 - **Button Visibility Outside Stash**: The "Auto-List" button currently appears in some non-stash menus. Planned updates will ensure it only shows in the stash context.
 - **Context Menu Button Placement**: The "Auto-List" button does not always appear at the bottom of the context menu. This will be addressed in future updates.
@@ -12,8 +11,8 @@ GnarAutoList is a mod for SPT that enhances the Flea Market experience in Escape
 - **Auto-List Items**: Automatically lists items on the Flea Market at the current average price.
 - **Integrated with Flea Market Prices**: Uses live data from the flea market to determine the listing price.
 - **Convenient Context Menu**: Right-click on items in your stash and select "Auto-List" to easily sell them.
-- **Player Level Restriction**:
-- **Reputation-Based Flea Market Limit**: 
+- **Player Level Restriction**: Players below level 15 are now restricted from using the Auto-List feature, ensuring early-game progression maintains a balance before accessing the Flea Market.
+- **Reputation-Based Flea Market Limit**: Flea market listing limits are now dynamically set based on the player's Ragfair reputation level. Players can only list a certain number of items based on their reputation, with higher levels allowing more listings.
 
 ## Installation
 Place everything in `BepInEx/plugins` inside the `BepInEx/plugins` folder of your SPT install, same with `user/mods/GnarAutoList`.
