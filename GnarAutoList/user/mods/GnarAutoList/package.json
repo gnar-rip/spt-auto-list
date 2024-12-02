@@ -1,6 +1,6 @@
 {
     "name": "GnarAutoList",
-    "version": "1.1",
+    "version": "0.0.1",
     "author": "gnar",
     "description": "Adds a context menu button to auto-list items on the flea market at the average price (in roubles).",
     "sptVersion": "3.10.x",
